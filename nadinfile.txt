@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
-hello this is nadin. 
-=======
+
 hello this is nadin. 
 hello nadin this is Robyn
 
 fnjadajcasc uas
->>>>>>> Stashed changes
