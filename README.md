@@ -8,12 +8,17 @@ Team members include Dahga Muhumed, Nadin Qaqos and Robyn Smith.
 -calendar will show the countdown by each event.
 -user can choose time frame on notifications example 1 week out or 3 days out ect.
 (group activity)
+- Doesn't have to include everything. Can be a quick summary of what our calendar app can be about. 
 
 ## Stackholders and their Interests
 
 (group activity)
 
+### The Software Developer and Maintainer
+- US 
 
+### Public 
+- Anyone 
 
 
 ## Personas 
