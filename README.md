@@ -5,13 +5,14 @@ Team members include Dahga Muhumed, Nadin Qaqos and Robyn Smith.
 
 
 ## Description
--calendar will show the countdown by each event.
--user can choose time frame on notifications example 1 week out or 3 days out ect.
+The calendar will show the countdown by each event as the user scrolls through the calendar.
+The user can choose time frame on notifications example 1 week out or 3 hours out ect.
 (group activity)
-- Doesn't have to include everything. Can be a quick summary of what our calendar app can be about. 
+- Doesn't have to include everything. Can be a quick summary of what our calendar app can be about.
 
 ## Stackholders and their Interests
-
+Interests are equal with count-down clock.
+Business and public alike can use the website as they choose.
 (group activity)
 
 ### The Software Developer and Maintainer
@@ -50,7 +51,7 @@ It the start of a new week and Ashley is preparing for a hectic week to start. B
 
 ### User Story #5 (Linda, Business Owner) - Robyn 
 Linda has a hectic day and realizes since the grand opening several bands have reached out and had interviews scheduled on Monday. She doesn’t know how much time she has between the interviews to complete the regular daily requirements of the brewery. Although the brewery opens at 11 am all her band interviews are 11 am and after. She just made it to the brewery at 9 AM and viewed her calendar. She views the countdown clock and sees she has exactly 1.50 hours until her first band interview. Without eating breakfast or starting her cleaning she jumps on the jobs. She gets most of the cleaning done and her next interview is at 1:30 pm and she has another every 30 min thereafter. The first interview lasted 45 min, and an employee  called in sick. Linda agreed to help where needed to keep the flow of business. She realizes with the countdown clock she now has 1.1 hours until the next interview and it’s always busier after lunch. With the limited time she has she is able to call the bands and ask that they do the interview in front of the guests. This works out perfectly, the interviews are voted by the customers with a 1 – 10 score and all the customers are happy to put their vote in. Linda was able to get through the interviews and made progress with the community.
-### User Story #6 - Robyn 
+### User Story #6 (Linda, Business Owner) - Robyn 
 Linda decided she would work from home today for the brewery and be on call when needed. She logs into the website and reviews her calendar. This year she is in charge of hosting the brewery's summer parade! She always sets her countdown notifications a week out. The countdown shows she has 6 days and 12 hours left unitl the parade. This is helpful and she is able to get the parades float planning started. As the days progress she is able plan for shipments and ensure the brewery's new bach of summer shandy beer is ready. 
 When the countdown shows she has less than 2 days she is able to account for everything needed and everyone seems healthy and ready for the big day. Linda was able to plan and even had 1 extra day to help with business as needed.
 
@@ -68,8 +69,15 @@ When the countdown shows she has less than 2 days she is able to account for eve
 
 ### Non-Functional 
 
-1. 
+1. Clock count-down with each calendar event.
+2. Account log in is required for user access since its a public site.
+3. The clock should show the coundown as they scroll through there calendar 
+4. Alerts can be scheduled as user request time frame.
+5. Users should be able to delete the account.
 
 ### Non- Requirements 
-1.
+1. Every request should be less than 200ms.
+
+### Non- Requirements 
+1. Requires an active internet connection at all times. 
 
