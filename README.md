@@ -65,18 +65,15 @@ When the countdown shows she has less than 2 days she is able to account for eve
 
 ### Functional 
 
-1. 
-
-### Non-Functional 
-
 1. Clock count-down with each calendar event.
 2. Account log in is required for user access since its a public site.
-3. The clock should show the coundown as they scroll through there calendar 
+3. Scroll through the months indivually.
 4. Alerts can be scheduled as user request time frame.
 5. Users should be able to delete the account.
 
-### Non- Requirements 
-1. Every request should be less than 200ms.
+### Non-Functional 
+
+1.Every request should be less than 200ms.
 
 ### Non- Requirements 
 1. Requires an active internet connection at all times. 
