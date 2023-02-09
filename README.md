@@ -19,11 +19,13 @@ Business and public alike can use the website as they choose.
 - US 
 
 ### Public 
-- Anyone 
+- 
 
-- Schools 
+### Students 
 
-- Small Businesses 
+### Small Businesses 
+
+### Parent
 
 ## Personas 
 
