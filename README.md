@@ -21,6 +21,9 @@ Business and public alike can use the website as they choose.
 ### Public 
 - Anyone 
 
+- Schools 
+
+- Small Businesses 
 
 ## Personas 
 
@@ -74,7 +77,7 @@ When the countdown shows she has less than 2 days she is able to account for eve
 
 ### Non-Functional 
 
-1.Every request should be less than 200ms.
+1. Every request should be less than 200ms.
 
 ### Non- Requirements 
 1. Requires an active internet connection at all times. 
