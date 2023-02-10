@@ -10,7 +10,7 @@ The user can choose time frame on notifications example 1 week out or 3 hours ou
 
 
 ## Stackholders and their Interests
-Interests are equal with the CountDown Applicator. Businesses and the public alike, eveyone has access to & can use the website as they choose.
+Interests are equal with the CountDown Applicator. Businesses and the public alike, eveyone has access & can use the website as they choose.
 
 
 ### The Software Developer and Maintainer
@@ -20,7 +20,8 @@ Interests are equal with the CountDown Applicator. Businesses and the public ali
 
 
 ### Public 
-- The website is open to the public and is aimed for anyone to use and access. Free of charge and easy to use and manage. 
+- The website is open to the public and is aimed for anyone to use and access. 
+- Free of charge and easy to use and manage. 
 
 ### Students 
 - Easy access
