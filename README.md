@@ -5,10 +5,7 @@ Team members include Dahga Muhumed, Nadin Qaqos and Robyn Smith.
 
 
 ## Description
-The calendar will show the countdown by each event as the user scrolls through the calendar.
-The user can choose time frame on notifications example 1 week out or 3 hours out ect.
-(group activity)
-- Doesn't have to include everything. Can be a quick summary of what our calendar app can be about.
+This Calendar Countdown is, well, just as it says, a calendar that will countdown the days to events added in by the user. A user will be able to keep track of all the important dates and events they have and be reminded of when they are coming up. An easy and simple tool to use, this Calendar Countdown will save you the trouble of trying to remember when your mother-in-law's birthday is or when your next big interview is coming up. With the options of when you would like to be reminded, you will never forget your next important date. Being reminded of an event has never been this easy! 
 
 ## Stackholders and their Interests
 Interests are equal with count-down clock.
