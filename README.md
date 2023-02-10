@@ -55,7 +55,7 @@ It the start of a new week and Ashley is preparing for a hectic week to start. B
 Ashley and her family are going on a big family vacation this summer and wants everything to be perfect. She needs to plan the activities, book the hotel, rent a vehicle, print the plane tickets, pack her bags, etc. The whole family is coming which includes herself, her 3 children, and her spouse. The trip is just a few months away and she is already planning on the best dates to go and what time the activies will begin. Once she purchased the plane tickets, she decides she needs to set a countdown so that she doesn't accidently forget what day or time they leave for their vacation. She starts her countdown 2 months from the designated day as well as a countdown for when her and her family will wake up, makes sure they have everything packed and at the airport 2 hours before the flight takes off. She sets a countdown timer for each event they'll take part in, when they'll need to arrive and leave the hotel as well as when they need to get back to the airport so they can make it home. Ashley makes sure to schedule each countdown 2 months prior to all of this starting and once the days of the activies occur, each countdown will have an alarm between 15 minutes to 3 hours to prepare Ashley ahead of time. This way Ashley will feel prepared and motivated and everyone can feel excited for the family vacation. 
 
 ### User Story #5 (Linda, Business Owner) - Robyn 
-Linda has a hectic day and realizes since the grand opening several bands have reached out and had interviews scheduled on Monday. She doesn’t know how much time she has between the interviews to complete the regular daily requirements of the brewery. Although the brewery opens at 11 am all her band interviews are 11 am and after. She just made it to the brewery at 9 AM and viewed her calendar. She views the countdown clock and sees she has exactly 1.50 hours until her first band interview. Without eating breakfast or starting her cleaning she jumps on the jobs. She gets most of the cleaning done and her next interview is at 1:30 pm and she has another every 30 min thereafter. The first interview lasted 45 min, and an employee  called in sick. Linda agreed to help where needed to keep the flow of business. She realizes with the countdown clock she now has 1.1 hours until the next interview and it’s always busier after lunch. With the limited time she has she is able to call the bands and ask that they do the interview in front of the guests. This works out perfectly, the interviews are voted by the customers with a 1 – 10 score and all the customers are happy to put their vote in. Linda was able to get through the interviews and made progress with the community.
+Linda has a hectic day and realizes since the grand opening several bands have reached out and had interviews scheduled on Monday. She doesn’t know how much time she has between the interviews to complete the regular daily requirements of the brewery. Although the brewery opens at 11 am all her band interviews are 11 am and after. She just made it to the brewery at 9 am and viewed her calendar. She views the countdown clock and sees she has exactly 1.50 hours until her first band interview. Without eating breakfast or starting her cleaning she jumps on the jobs. She gets most of the cleaning done and her next interview is at 1:30 pm and she has another every 30 min thereafter. The first interview lasted 45 min, and an employee called in sick. Linda agreed to help where needed to keep the flow of business. She realizes with the countdown clock she now has 1.1 hours until the next interview and it’s always busier after lunch. With the limited time she has she is able to call the bands and ask that they do the interview in front of the guests. This works out perfectly, the interviews are voted by the customers with a 1 – 10 score and all the customers are happy to put their vote in. Linda was able to get through the interviews and made progress with the community.
 
 ### User Story #6 (Linda, Business Owner) - Robyn 
 Linda decided she would work from home today for the brewery and be on call when needed. She logs into the website and reviews her calendar. This year she is in charge of hosting the brewery's summer parade! She always sets her countdown notifications a week out. The countdown shows she has 6 days and 12 hours left unitl the parade. This is helpful and she is able to get the parades float planning started. As the days progress she is able plan for shipments and ensure the brewery's new bach of summer shandy beer is ready. 
@@ -73,13 +73,16 @@ When the countdown shows she has less than 2 days she is able to account for eve
 
 1. Clock count-down with each calendar event.
 2. Account log in is required for user access since its a public site.
-3. Scroll through the months indivually.
+3. User can scroll through the months indivually within the calendar.
 4. Alerts can be scheduled as user request time frame.
-5. Users should be able to delete the account.
+5. Users should be able to delete calendar events and make changes to them.
+6. User can delete there account as they choose.
 
 ### Non-Functional 
 
 1. Every request should be less than 200ms.
+2. The webpage should be capable enough to handle 20 million users without it affecting its performance.
+3. The webpage should be accessible from multiple devices with the same user login.
 
 ### Non- Requirements 
 1. Requires an active internet connection at all times. 
