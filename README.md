@@ -7,25 +7,37 @@ Team members include Dahga Muhumed, Nadin Qaqos and Robyn Smith.
 ## Description
 The calendar will show the countdown by each event as the user scrolls through the calendar.
 The user can choose time frame on notifications example 1 week out or 3 hours out ect.
-(group activity)
-- Doesn't have to include everything. Can be a quick summary of what our calendar app can be about.
+
 
 ## Stackholders and their Interests
 Interests are equal with count-down clock.
 Business and public alike can use the website as they choose.
-(group activity)
+
 
 ### The Software Developer and Maintainer
-- US 
+- Easy to deploy and make changes as needed
+- Supports different differnt platforms (i.e Android and IOS devices)
+- Little operating costs 
+
 
 ### Public 
-- 
+- The website is open to the public and is aimed for anyone to use and access. Free of charge and easy to use and manage. 
 
 ### Students 
-
+- Easy access
+- Free of charge
+- Easy to used to help stay organized for multiple classes & activities 
 ### Small Businesses 
+- Free, saves money in the long run
+- Great tool to use for time management
+- Accurate & well detailed layout
+- Fast and easy to use with little to no training 
 
 ### Parent
+- Fast and easy to use with little to no training 
+- Easy to understand  
+- Easy to keep track & organized
+- 
 
 ## Personas 
 
@@ -61,9 +73,9 @@ Linda has a hectic day and realizes since the grand opening several bands have r
 Linda decided she would work from home today for the brewery and be on call when needed. She logs into the website and reviews her calendar. This year she is in charge of hosting the brewery's summer parade! She always sets her countdown notifications a week out. The countdown shows she has 6 days and 12 hours left unitl the parade. This is helpful and she is able to get the parades float planning started. As the days progress she is able plan for shipments and ensure the brewery's new bach of summer shandy beer is ready. 
 When the countdown shows she has less than 2 days she is able to account for everything needed and everyone seems healthy and ready for the big day. Linda was able to plan and even had 1 extra day to help with business as needed.
 
-## Use Case Diagrams
+## User Case Diagrams
 
-![Alt text](./Images/usecasediagram.png "Use Case Image")
+![Alt text](./Images/usecasediagram.png "User Case Image")
 
 ## System Requirements 
 
