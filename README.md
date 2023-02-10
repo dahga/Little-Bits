@@ -10,8 +10,7 @@ The user can choose time frame on notifications example 1 week out or 3 hours ou
 
 
 ## Stackholders and their Interests
-Interests are equal with count-down clock.
-Business and public alike can use the website as they choose.
+Interests are equal with the CountDown Applicator. Businesses and the public alike, eveyone has access to & can use the website as they choose.
 
 
 ### The Software Developer and Maintainer
