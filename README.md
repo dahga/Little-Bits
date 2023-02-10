@@ -26,7 +26,7 @@ Interests are equal with the CountDown Applicator. Businesses and the public ali
 ### Students 
 - Easy access
 - Free of charge
-- Easy to used to help stay organized for multiple classes & activities 
+- Easy to use to help stay organized for multiple classes & activities 
 ### Small Businesses 
 - Free, saves money in the long run
 - Great tool to use for time management
