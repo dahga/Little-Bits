@@ -36,7 +36,6 @@ Interests are equal with the CountDown Applicator. Businesses and the public ali
 - Fast and easy to use with little to no training 
 - Easy to understand  
 - Easy to keep track & organized
-- 
 
 ## Personas 
 
