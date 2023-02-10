@@ -15,7 +15,7 @@ Interests are equal with the CountDown Applicator. Businesses and the public ali
 
 ### The Software Developer and Maintainer
 - Easy to deploy and make changes as needed
-- Supports different differnt platforms (i.e Android and IOS devices)
+- Supports different platforms (i.e Android and IOS devices)
 - Little operating costs 
 
 
