@@ -5,12 +5,11 @@ Team members include Dahga Muhumed, Nadin Qaqos and Robyn Smith.
 
 
 ## Description
-The calendar will show the countdown by each event as the user scrolls through the calendar.
-The user can choose time frame on notifications example 1 week out or 3 hours out ect.
+This Calendar Countdown is, well, just as it says, a calendar that will countdown the days to events added in by the user. A user will be able to keep track of all the important dates and events they have and be reminded of when they are coming up. An easy and simple tool to use, this Calendar Countdown will save you the trouble of trying to remember when your mother-in-law's birthday is or when your next big interview is coming up. With the options of when you would like to be reminded, you will never forget your next important date. Being reminded of an event has never been this easy! 
 
 
 ## Stackholders and their Interests
-Interests are equal with the CountDown Applicator. Businesses and the public alike, eveyone has access to & can use the website as they choose.
+Interests are equal with the CountDown Applicator. Businesses and the public alike, eveyone has access & can use the website as they choose.
 
 
 ### The Software Developer and Maintainer
@@ -20,12 +19,13 @@ Interests are equal with the CountDown Applicator. Businesses and the public ali
 
 
 ### Public 
-- The website is open to the public and is aimed for anyone to use and access. Free of charge and easy to use and manage. 
+- The website is open to the public and is aimed for anyone to use and access. 
+- Free of charge and easy to use and manage. 
 
 ### Students 
 - Easy access
 - Free of charge
-- Easy to used to help stay organized for multiple classes & activities 
+- Easy to use to help stay organized for multiple classes & activities 
 ### Small Businesses 
 - Free, saves money in the long run
 - Great tool to use for time management
@@ -36,7 +36,6 @@ Interests are equal with the CountDown Applicator. Businesses and the public ali
 - Fast and easy to use with little to no training 
 - Easy to understand  
 - Easy to keep track & organized
-- 
 
 ## Personas 
 
