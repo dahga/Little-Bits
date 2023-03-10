@@ -51,7 +51,6 @@ Linda is 35 years old and lives in a small town in MN. She and her husband just 
 
 ## User Stories 
 
-
 ### User Story #1 (Sally, College student) - Nadin
  Sally wants to keep track of her assignments and wants to keep up with all of the due dates. She wants to hand things in on time so that she doesn’t get stressed out with everything. She found this software that will help her do that and she intends to use it. Since she is very well versed in technology, she goes to her laptop and opens the website that uses this software. She creates an account by inputting all of the necessary information, then she begins to see where she could start. She sees a calendar and there is a + sign up at the top right corner. She clicks on that and proceeds to fill in the information for her assignment. She inputs the class name, the assignment name, and the due date. She also color coded her assignments by class. Once everything is filled in she presses enter and it shows up on the calendar. It shows up on the date it is due and how much time she has left to do it. She can also look at her assignment in chronological order to see what is the closest thing that is due. The software helped her to do all of these and she was able to keep up with which assignment was due when and how long she would have to do it before the due date.  
 
