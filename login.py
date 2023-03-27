@@ -5,8 +5,14 @@ import tkinter as tk
 def login():
     username = username_entry.get()
     password = password_entry.get()
-    print("Username:", username)
-    print("Password:", password)
+    # print("Username:", username)
+    # print("Password:", password)
+
+    if username == "admin" and password == "password":
+        print("Login successful!") 
+    else:
+        print("Invalid username or password.")
+        error_label.config(text="Invalid username or password.", fg="red")
     # You can add functionality to check the validity of the username and password here
 
 # Create a new window
@@ -32,6 +38,10 @@ password_entry.pack()
 # Add a button to submit the login information
 login_button = tk.Button(root, text="Login", command=login)
 login_button.pack()
+
+# Add a label for error messages
+error_label = tk.Label(root, text="")
+error_label.pack()
 
 # Start the event loop
 root.mainloop()
