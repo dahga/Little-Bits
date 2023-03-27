@@ -9,7 +9,7 @@ def login():
     # print("Password:", password)
 
     if username == "admin" and password == "password":
-        print("Login successful!")
+        print("Login successful!") 
     else:
         print("Invalid username or password.")
         error_label.config(text="Invalid username or password.", fg="red")
