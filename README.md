@@ -73,7 +73,7 @@ When the countdown shows she has less than 2 days she is able to account for eve
 
 ## User Case Diagrams
 
-![Alt text](./Images/usecasediagram.png "User Case Image")
+![Alt text](./Images/UserCaseDiagram.png "User Case Image")
 
 ## System Requirements 
 
