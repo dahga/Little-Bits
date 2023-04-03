@@ -2,10 +2,6 @@
     "folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "Little-Bits-1",
-			"path": "../Little-Bits-1"
 		}
 	],
     "settings": {
