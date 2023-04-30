@@ -7,6 +7,7 @@ from tkinter import ttk
 from tkinter import messagebox
 from datetime import datetime
 from time import time
+from plyer import notification
 import sqlite3
 from tkcalendar import *
 
@@ -163,7 +164,13 @@ def show_calendar():
             date = date_entry.get()
             time = time_entry.get()
             notes = notes_entry.get()
+            
+            #add the event to the database
+            
+            #show the notification to the user
             messagebox.showinfo("New Event Added", f"Title: {title}\nDate: {date}\nTime: {time}\nNotes: {notes}")
+            #messagebox.showinfo("Event added", f"The event '{title}' has been added to the calendar.")
+            
             # Clear the entries
             title_entry.delete(0, tk.END)
             date_entry.delete(0, tk.END)
@@ -212,4 +219,18 @@ def countdowntimer():
         current_time = datetime.datetime.now()
         time_remaining = event_time - current_time
 
-    print("Event time has arrived!")    
+    print("Event time has arrived!")   
+    
+    def check_events(events):
+        """
+        Check if any event is about to occur in the next 30 minute.
+        If so, display a notification and a message box.
+        """
+        now = datetime.now()
+        for event in events:
+            event_time = datetime.strptime(event[0], '%Y-%m-%d %H:%M:%S')
+            if now <= event_time < now + timedelta(minutes=30):
+                title = f"Event '{event[1]}' is starting soon!"
+                message = f"It's time for the event '{event[1]}'"
+                notification.notify(title=title, message=message, app_name='Event Reminder', timeout=10)
+                messagebox.showwarning(title=title, message=message)
