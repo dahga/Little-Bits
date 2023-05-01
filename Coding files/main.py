@@ -112,7 +112,7 @@ def show_calendar():
     result_frame.pack(expand=True, fill="both")
     button_frame.pack(expand=True, fill="both")
 
-    cal = Calendar(cal_gui, selectmode="day", year=2023, month=4, day=16 )
+    cal = Calendar(cal_gui, selectmode="day", year=2023, month=5, day=1 )
     cal.pack(pady=20)
 
     def grab_date():
